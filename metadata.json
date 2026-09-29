@@ -1,0 +1,8 @@
+{
+  "name": "Remix  Mabri Lippings Sales \u0026 Stock Management System",
+  "description": "Stock inventory, daily sales tracking, automated stock deductions, movement audit logs, and PDF/Excel reports for Mabri Limited.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
